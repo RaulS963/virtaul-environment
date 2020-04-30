@@ -6,3 +6,8 @@ The following command creates a virtual environment (directory)
   ```python
   > python -m venv your_virtual_env_dir_name  
   ```
+
+To start the virtual environment goto your virtual env dir and type the following command
+  ```python
+  your_virtual_env_dir_name > scripts\activate.bat
+  ```
