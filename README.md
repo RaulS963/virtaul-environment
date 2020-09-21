@@ -1,4 +1,4 @@
-# virtaul-environment
+# virtual-environment
 
 ## Creating a virtual environment
 
